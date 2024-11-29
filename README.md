@@ -11,6 +11,16 @@ A pixel-perfect recreation of Spotify's web interface using only HTML and CSS. T
 - Grid-based album layouts
 - Side navigation with collapsible menu
 
+## Screenshots
+
+### Desktop View
+
+<img src="screenshots/spotifypc.png" width="600" alt="Desktop Screenshot">
+
+### Mobile View
+
+<img src="screenshots/spotifyresponsive.png" width="300" alt="Mobile Screenshot">
+
 ## Preview
 
 Clone and open `index.html` to see the interface in action.
